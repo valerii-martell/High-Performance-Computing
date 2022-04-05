@@ -1,6 +1,6 @@
 # High Performance Computing
 
-Programming assignments in university course "High Performance Computing". Mostly in MPI via C++. 
+Programming assignments developed as part of an internship at the V.M. Glushkov Institute of Cybernetics of National Academy Of Sciences Of Ukraine. Mostly in MPI via C++. 
 
 **The general principles of parallel computing, Open MP and MP, and before that, are considered in the works in the repository:**
 https://github.com/valerii-martell/Parallel-Programming
