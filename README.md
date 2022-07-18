@@ -1,5 +1,7 @@
 # High Performance Computing
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8ee051b94b154a2f96e677723a90bba2)](https://www.codacy.com/gh/valerii-martell/High-Performance-Computing/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=valerii-martell/High-Performance-Computing&amp;utm_campaign=Badge_Grade)
+
 Programming assignments developed as part of an internship at the V.M. Glushkov Institute of Cybernetics of National Academy of Sciences of Ukraine. Mostly in MPI via C++. 
 
 **The general principles of parallel computing, Open MP and MP, and before that, are considered in the works in the repository:**
