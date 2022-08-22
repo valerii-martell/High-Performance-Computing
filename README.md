@@ -20,4 +20,4 @@ https://github.com/valerii-martell/Parallel-Programming
 **Main problems of parallel computing considered:**
 1. Thread/Process Synchronization Problem
 2. Mutual Exclusion Problem
-3. Clusterization
+3. Clusterization.
